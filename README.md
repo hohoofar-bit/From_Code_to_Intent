@@ -49,4 +49,4 @@ A citation will be added on publication.
 
 ## Contact
 
-AHH, [EMAIL]
+HH, hhoominf@PNW.edu
