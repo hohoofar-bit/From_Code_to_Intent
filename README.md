@@ -39,6 +39,10 @@ Recomputes the agreement figures of Supplementary Appendix B.7 and Section 1.1 f
 
 Every work in the files is named by its short name and identifier: a DOI, an arXiv id, a URL, or venue and year. The numbers in S2's `ref` column refer to the article's reference list and to the supplement's S-numbered list. Both lists will be posted with the publication version.
 
+## License
+
+The data files in `data/` are licensed under CC BY 4.0 ([LICENSE-DATA.txt](LICENSE-DATA.txt)). The two Python scripts, `data/S2_counts.py` and `data/S6_agreement.py`, are licensed under the MIT License ([LICENSE-CODE.txt](LICENSE-CODE.txt)).
+
 ## Citation
 
 A citation will be added on publication.
